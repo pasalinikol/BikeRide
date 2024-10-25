@@ -2,6 +2,8 @@
 Overview
 This project aims to develop a predictive model for forecasting bike rental demand using various machine learning techniques. The model leverages historical bike rental data in Seoul from 2017 to 2018 along with weather and temporal features to predict the number of bike rentals in a given period. The primary focus is on comparing the performance of different modeling approaches, particularly XGBoost and linear regression.
 
+Data borrowed from: https://github.com/syedsharin/Seoul-Bike-Sharing-Demand-Prediction
+
 ### Project Description
 The Bike Rental Demand Forecasting project uses a dataset that captures bike rental counts along with various influencing factors such as weather conditions, time of day, and seasonal trends. The project employs different machine learning algorithms to build models that predict bike rental demand, enabling better resource allocation and operational efficiency for bike-sharing systems.
 
